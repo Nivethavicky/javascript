@@ -100,6 +100,3 @@ const difference = dateDifferenceInDays(fromDate, toDate);
 // Print the difference
 console.log("Difference between dates in days:", difference);
 
-let array=[4,8,9,4,5,6,7,6,7,8]
-array.copyWithin(4,3,7)
-console.log(array)
